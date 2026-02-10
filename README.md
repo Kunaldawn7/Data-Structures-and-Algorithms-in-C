@@ -1,4 +1,4 @@
 # Data-Structures-and-Algorithms-in-C
-This repo contains some popular algorithms and a few Leetcode problems on Data Structures implemented in standard C that was part of my GATE 2026 journey.
+This repository contains a few algorithms and LeetCode problems that I implemented in standard C that were part of my GATE 2026 preparation journey.
 
-The programs have been compiled with the GCC compiler.
+The programs have been compiled (and submitted) with the GCC compiler.
