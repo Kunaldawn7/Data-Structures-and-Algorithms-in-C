@@ -1,4 +1,4 @@
-## LeetCode Problem 23: <a href="https://leetcode.com/problems/merge-k-sorted-lists/" target="_blank">Merge k Sorted Lists</a>
+## LeetCode Problem 23: [Merge k Sorted Lists]("https://leetcode.com/problems/merge-k-sorted-lists/")
 
 <b>Problem Statement:</b>
 
@@ -27,4 +27,5 @@ merging them into one sorted linked list:
 The implementation is performed using the `min-heap` data-structure. I have provided 2 versions of it:
 
 1. The input being passed as `2D-arrays`  (my own version).
-2. The **Leetcode** version: The evaluation performed through the `struct ListNode* mergeKLists(struct ListNode** lists, int listsSize)` function entry-point.
+2. The **Leetcode** version: The evaluation performed through the
+   `struct ListNode* mergeKLists(struct ListNode** lists, int listsSize)` function entry-point.
