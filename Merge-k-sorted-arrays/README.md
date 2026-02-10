@@ -1,4 +1,4 @@
-## LeetCode Problem 23: [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+## LeetCode Problem 23: <a href="https://leetcode.com/problems/merge-k-sorted-lists/" target="_blank">Merge k Sorted Lists</a>
 
 <b>Problem Statement:</b>
 
