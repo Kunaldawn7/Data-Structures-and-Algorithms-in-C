@@ -1,4 +1,4 @@
-## LeetCode Problem 23: [Merge k Sorted Lists]("https://leetcode.com/problems/merge-k-sorted-lists/")
+## LeetCode Problem 23: [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 <b>Problem Statement:</b>
 
@@ -9,7 +9,7 @@ You are given an array of `k` linked-lists `lists`, each linked-list is sorted i
 **Example:**
 
 
-```c
+```
 Input: lists = [[1,4,5],[1,3,4],[2,6]]
 Output: [1,1,2,3,4,4,5,6]
 Explanation: The linked-lists are:
